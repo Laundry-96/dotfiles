@@ -1,0 +1,303 @@
+[20:00:31] [Client thread/INFO]: Setting user: majorawsoem
+[20:00:31] [Client thread/INFO]: (Session ID is token:8006422246334fa19c8238a1fe5dbed6:8d249ff164474cc6ad130b219166c3b4)
+[20:00:32] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:00:32] [Client thread/INFO]: Reloading ResourceManager: Default
+[20:00:32] [Client thread/ERROR]: Couldn't initialize twitch stream
+[20:00:32] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:00:33] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[20:00:33] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:00:33] [Thread-6/INFO]: OpenAL initialized.
+[20:00:33] [Sound Library Loader/INFO]: Sound engine started
+[20:00:34] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:00:45] [Client thread/INFO]: Connecting to us.oc.tc, 25565
+[20:00:46] [Client thread/INFO]: [CHAT]                                      
+[20:00:46] [Client thread/INFO]: [CHAT] Welcome to the Overcast Network Lobby!
+[20:00:46] [Client thread/INFO]: [CHAT] Enter a portal or click a sign for a particular server to play.
+[20:00:46] [Client thread/INFO]: [CHAT] You can also open one of the enchanted books to join a server.
+[20:00:46] [Client thread/INFO]: [CHAT] Thanks, and enjoy your time here on the Overcast Network
+[20:00:49] [Client thread/INFO]: [CHAT] Loading servers...
+[20:00:51] [Client thread/INFO]: [CHAT] Teleporting you to [Capture1]
+[20:00:53] [Client thread/INFO]: [CHAT]                                      
+[20:00:53] [Client thread/INFO]: [CHAT] 
+[20:00:53] [Client thread/INFO]: [CHAT]             Royal Garden CTW            
+[20:00:53] [Client thread/INFO]: [CHAT]  Capture the opposing team's wool and
+[20:00:53] [Client thread/INFO]: [CHAT]  place it at your victory monument.
+[20:00:53] [Client thread/INFO]: [CHAT]  Created by *❖✵Strangey, *Vetches, and *eastn_
+[20:00:53] [Client thread/INFO]: [CHAT]                                                   
+[20:00:54] [Client thread/INFO]: [CHAT]                                Match Info                               
+[20:00:54] [Client thread/INFO]: [CHAT] Time: 01:17.933
+[20:00:54] [Client thread/INFO]: [CHAT] Blue: 24/40 | Red: 24/40 | Observers: 9
+[20:00:54] [Client thread/INFO]: [CHAT] Goals:
+[20:00:54] [Client thread/INFO]: [CHAT]   Blue: Purple Wool  Orange Wool
+[20:00:54] [Client thread/INFO]: [CHAT]   Red: Yellow Wool  Pink Wool
+[20:00:54] [Client thread/INFO]: [CHAT] You joined Blue
+[20:00:54] [Client thread/INFO]: [CHAT] [Tip] Follow us on twitter! twitter.com/OvercastNetwork
+[20:01:12] [Client thread/INFO]: [CHAT] [Blue] Orange Wool picked up by Eskonnie for Blue
+[20:01:16] [Client thread/INFO]: [CHAT] [Blue] Purple Wool picked up by leaphar24 for Blue
+[20:01:24] [Client thread/INFO]: [CHAT] <*iAlex98>: omg
+[20:01:54] [Client thread/INFO]: [CHAT] [Tip] Teams full? Check out our other servers at oc.tc/play
+[20:02:17] [Client thread/INFO]: [CHAT] [Blue] Orange Wool picked up by CasperYT_2006 for Blue
+[20:02:28] [Client thread/INFO]: [CHAT] <*Eskonnie>: lol
+[20:02:54] [Client thread/INFO]: [CHAT] [Tip] Defuse griefer TNT by right clicking with shears!
+[20:03:01] [Client thread/INFO]: [CHAT] <*iAlex98>: pro
+[20:03:09] [Client thread/INFO]: [CHAT] <Bastian_BG>: thx
+[20:03:35] [Client thread/INFO]: [CHAT] [Blue] Orange Wool picked up by leaphar24 for Blue
+[20:03:37] [Client thread/INFO]: [CHAT]  ⚠ You may not build in the void!
+[20:03:41] [Client thread/ERROR]: Item entity 665661 has no item?!
+[20:03:54] [Client thread/INFO]: [CHAT] [Tip] Configure settings by typing /help BukkitSettings
+[20:04:07] [Client thread/INFO]: [CHAT] majorawsoem was knocked out of the world by Whitecygnus's Iron Sword
+[20:04:15] [Client thread/INFO]: [CHAT] [Blue] Purple Wool picked up by NoHaxJustRush for Blue
+[20:04:26] [Client thread/INFO]: [CHAT] <PercyGG>: nub
+[20:04:28] [Client thread/INFO]: [CHAT] <PercyGG>: nubs
+[20:04:33] [Client thread/INFO]: [CHAT] majorawsoem was slain by Whitecygnus's Iron Sword
+[20:04:33] [Client thread/ERROR]: Item entity 672206 has no item?!
+[20:04:33] [Client thread/ERROR]: Item entity 672206 has no item?!
+[20:04:33] [Client thread/ERROR]: Item entity 672206 has no item?!
+[20:04:33] [Client thread/ERROR]: Item entity 672206 has no item?!
+[20:04:33] [Client thread/ERROR]: Item entity 672206 has no item?!
+[20:04:37] [Client thread/INFO]: [CHAT] <iDaniPvP>: por
+[20:04:38] [Client thread/INFO]: [CHAT] [Blue] Purple Wool picked up by iAlex98 for Blue
+[20:04:50] [Client thread/INFO]: [CHAT] <xSpinach>: porq lo mataste xd
+[20:04:55] [Client thread/INFO]: [CHAT] [Tip] Like us on facebook! facebook.com/OvercastNetwork
+[20:05:00] [Client thread/INFO]: [CHAT] [Blue] Purple Wool picked up by Eskonnie for Blue
+[20:05:04] [Client thread/ERROR]: Item entity 676126 has no item?!
+[20:05:08] [Client thread/INFO]: [CHAT] [Blue] Purple Wool picked up by CaraPerro for Blue
+[20:05:11] [Client thread/INFO]: [CHAT] [Blue] Purple Wool picked up by Leozilo for Blue
+[20:05:25] [Client thread/ERROR]: Item entity 679372 has no item?!
+[20:05:29] [Client thread/ERROR]: Item entity 679887 has no item?!
+[20:05:40] [Client thread/INFO]: [CHAT] [Blue] ItzKatanaPvP: water?
+[20:05:46] [Client thread/INFO]: [CHAT] Whitecygnus placed PINK WOOL for Red
+[20:05:49] [Client thread/ERROR]: Item entity 683394 has no item?!
+[20:05:50] [Client thread/INFO]: [CHAT] [Blue] Purple Wool picked up by awsomedude344 for Blue
+[20:05:55] [Client thread/INFO]: [CHAT] [Tip] We support many languages! Try changing it in Minecraft options
+[20:06:16] [Client thread/INFO]: [CHAT] BB_8__ placed YELLOW WOOL for Red
+[20:06:16] [Client thread/INFO]: [CHAT] Red wins!
+[20:06:16] [Client thread/INFO]: [CHAT] Your team lost
+[20:06:16] [Client thread/INFO]: [CHAT] Server restarting in 30 seconds
+[20:06:16] [Client thread/INFO]: [CHAT] +5 Raindrops | you were loyal to your team (Blue) for 5 minutes
+[20:06:18] [Client thread/INFO]: [CHAT] [Blue] chanchogamerpvp: GG
+[20:06:19] [Client thread/INFO]: [CHAT] [Blue] majorawsoem: gg
+[20:06:19] [Client thread/INFO]: [CHAT] [Blue] KuchenFlitzer: gg
+[20:06:19] [Client thread/INFO]: [CHAT] <Bastian_BG>: eZ
+[20:06:19] [Client thread/INFO]: [CHAT] <Xamic>: gg
+[20:06:20] [Client thread/INFO]: [CHAT] <iTz_Laucha_PvP>: gg
+[20:06:20] [Client thread/INFO]: [CHAT] [Blue] awsomedude344: GG
+[20:06:20] [Client thread/INFO]: [CHAT] <_Combitas_>: gg
+[20:06:21] [Client thread/INFO]: [CHAT] <*leaphar24>: gg
+[20:06:22] [Client thread/INFO]: [CHAT] Your rating of 4 for Royal Garden CTW 1.4.1 has been saved.
+[20:06:22] [Client thread/INFO]: [CHAT] You can change your rating later using the hopper, or by typing /rate
+[20:06:22] [Client thread/INFO]: [CHAT] <Anto_xD>: eZZ
+[20:06:23] [Client thread/INFO]: [CHAT] <xFukano>: ez
+[20:06:24] [Client thread/INFO]: [CHAT] <NoHaxJustRush>: omg
+[20:06:26] [Client thread/INFO]: [CHAT] [Blue] CaraPerro: gg
+[20:06:26] [Client thread/INFO]: [CHAT] Server restarting in 20 seconds
+[20:06:26] [Client thread/INFO]: [CHAT] <iDaniPvP>: gg
+[20:06:27] [Client thread/INFO]: [CHAT] <NoHaxJustRush>: GG
+[20:06:33] [Client thread/INFO]: [CHAT] [Blue] awsomedude344: MACHT FAST
+[20:06:36] [Client thread/INFO]: [CHAT] Server restarting in 10 seconds
+[20:06:38] [Client thread/INFO]: [CHAT] <BB_8__>: i love u Whitecygnus
+[20:06:40] [Client thread/INFO]: [CHAT] <Bastian_BG>: #ThePyrimaniac xd
+[20:06:41] [Client thread/INFO]: [CHAT] Server restarting in 5 seconds
+[20:06:42] [Client thread/INFO]: [CHAT] [Blue] Leozilo: voy a comer piza
+[20:06:42] [Client thread/INFO]: [CHAT] Server restarting in 4 seconds
+[20:06:43] [Client thread/INFO]: [CHAT] Server restarting in 3 seconds
+[20:06:44] [Client thread/INFO]: [CHAT] Server restarting in 2 seconds
+[20:06:45] [Client thread/INFO]: [CHAT] Server restarting in 1 second
+[20:06:48] [Client thread/INFO]: [CHAT] iDaniPvP left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] S6DM left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] Leozilo left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] Warrgy54 left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] awsomedude344 left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] Anto_xD left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] ITzalexgamers left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] DiegoProPvP left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] GlennRhee left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] Xamic left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] LoveSkoog left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] McPumpkinpie left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] Whitecygnus left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] vinisant77 left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] chanchogamerpvp left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] NeexS left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] SkyCluxTed_PvP left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] MORBI_YT left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] Ratphlegm left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] Alzenor left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] iTz_Spewpa_PvP left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] CaraPerro left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] ItzKatanaPvP left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] rlpotro189 left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] OrlandoSwag left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] JavierLobosS left the game.
+[20:06:48] [Client thread/INFO]: [CHAT] TEM2001 left the game.
+[20:06:49] [Client thread/INFO]: [CHAT] The server you were previously on went down, you have been connected to the lobby
+[20:06:50] [Client thread/INFO]: [CHAT]                                      
+[20:06:50] [Client thread/INFO]: [CHAT] Welcome to the Overcast Network Lobby!
+[20:06:50] [Client thread/INFO]: [CHAT] Enter a portal or click a sign for a particular server to play.
+[20:06:50] [Client thread/INFO]: [CHAT] You can also open one of the enchanted books to join a server.
+[20:06:50] [Client thread/INFO]: [CHAT] Thanks, and enjoy your time here on the Overcast Network
+[20:06:53] [Client thread/INFO]: [CHAT] Loading servers...
+[20:07:00] [Client thread/INFO]: [CHAT] Teleporting you to [Mini01]
+[20:07:01] [Client thread/INFO]: [CHAT]                                      
+[20:07:01] [Client thread/INFO]: [CHAT] 
+[20:07:02] [Client thread/INFO]: [CHAT]                 Tanker TNT                
+[20:07:02] [Client thread/INFO]: [CHAT]  Leak lava from the enemy's obsidian
+[20:07:02] [Client thread/INFO]: [CHAT]  cores.
+[20:07:02] [Client thread/INFO]: [CHAT]  Created by *❖✵Tywnis
+[20:07:02] [Client thread/INFO]: [CHAT]                                                   
+[20:07:06] [Client thread/INFO]: [CHAT] Loading servers...
+[20:07:07] [Client thread/ERROR]: Item entity 415009 has no item?!
+[20:07:14] [Client thread/INFO]: [CHAT] [Red] Blue's Prow Core damaged by Ceinrath
+[20:07:16] [Client thread/INFO]: [CHAT] Teleporting you to [Conquer]
+[20:07:18] [Client thread/INFO]: [CHAT]                                      
+[20:07:18] [Client thread/INFO]: [CHAT] 
+[20:07:18] [Client thread/INFO]: [CHAT]                  BlockBlock                 
+[20:07:18] [Client thread/INFO]: [CHAT]  Get the most kills in 15 minutes!
+[20:07:18] [Client thread/INFO]: [CHAT]  Created by Lyzak
+[20:07:18] [Client thread/INFO]: [CHAT]                                                   
+[20:07:19] [Client thread/INFO]: [CHAT]                                Match Info                               
+[20:07:19] [Client thread/INFO]: [CHAT] Time: 09:44.798
+[20:07:19] [Client thread/INFO]: [CHAT] Red: 14/40 | Blue: 13/40 | Observers: 0
+[20:07:19] [Client thread/INFO]: [CHAT] Score: 93 126
+[20:07:19] [Client thread/INFO]: [CHAT] You joined Red
+[20:07:34] [Client thread/INFO]: [CHAT] Time Remaining: 05:00
+[20:07:36] [Client thread/INFO]: [CHAT] majorawsoem was shot out of the world by AresGodOfWars from 4 blocks
+[20:07:58] [Client thread/INFO]: [CHAT] majorawsoem was knocked out of the world by slyrow's Stone Sword
+[20:08:00] [Client thread/INFO]: [CHAT] y7adriann scored 10 points for Red
+[20:08:02] [Client thread/ERROR]: Item entity 762591 has no item?!
+[20:08:04] [Client thread/INFO]: [CHAT] [Tip] Follow us on twitter! twitter.com/OvercastNetwork
+[20:08:33] [Client thread/INFO]: [CHAT] JavierLobosS was shot by majorawsoem from 27 blocks
+[20:08:33] [Client thread/INFO]: [CHAT] +1 Raindrop | killed JavierLobosS
+[20:08:34] [Client thread/INFO]: [CHAT] Time Remaining: 04:00
+[20:08:46] [Client thread/INFO]: [CHAT] majorawsoem was slain by _R0G3R_'s Diamond Sword
+[20:08:46] [Client thread/ERROR]: Item entity 763345 has no item?!
+[20:08:56] [Client thread/ERROR]: Item entity 763632 has no item?!
+[20:09:04] [Client thread/INFO]: [CHAT] TewNico scored 10 points for Red
+[20:09:04] [Client thread/INFO]: [CHAT] [Tip] Teams full? Check out our other servers at oc.tc/play
+[20:09:11] [Client thread/ERROR]: Item entity 764040 has no item?!
+[20:09:13] [Client thread/INFO]: [CHAT] majorawsoem was slain by ElWeonDeRashy's Stone Sword
+[20:09:13] [Client thread/ERROR]: Item entity 764114 has no item?!
+[20:09:16] [Client thread/ERROR]: Item entity 764161 has no item?!
+[20:09:18] [Client thread/ERROR]: Item entity 764187 has no item?!
+[20:09:31] [Client thread/ERROR]: Item entity 764390 has no item?!
+[20:09:34] [Client thread/INFO]: [CHAT] Time Remaining: 03:00
+[20:09:37] [Client thread/INFO]: [CHAT] majorawsoem fell out of the world
+[20:09:39] [Client thread/INFO]: [CHAT] Brumlington scored 10 points for Red
+[20:09:48] [Client thread/INFO]: [CHAT] <*_R0G3R_>: wtf
+[20:09:50] [Client thread/INFO]: [CHAT] slyrow scored 10 points for Blue
+[20:09:57] [Client thread/INFO]: [CHAT] <*TewNico>: q op tio
+[20:10:04] [Client thread/INFO]: [CHAT] [Tip] Defuse griefer TNT by right clicking with shears!
+[20:10:06] [Client thread/INFO]: [CHAT] majorawsoem was slain by JavierLobosS's Stone Sword
+[20:10:21] [Client thread/INFO]: [CHAT] majorawsoem was knocked out of the world by T_A_C_H_Y_O_N's Stone Sword
+[20:10:21] [Client thread/ERROR]: Item entity 765249 has no item?!
+[20:10:21] [Client thread/ERROR]: Item entity 765249 has no item?!
+[20:10:21] [Client thread/ERROR]: Item entity 765249 has no item?!
+[20:10:32] [Client thread/INFO]: [CHAT] ohad180607 was slain by majorawsoem's Stone Sword
+[20:10:32] [Client thread/INFO]: [CHAT] +1 Raindrop | killed ohad180607
+[20:10:34] [Client thread/INFO]: [CHAT] Time Remaining: 02:00
+[20:10:35] [Client thread/INFO]: [CHAT] _Facundo121_ scored 10 points for Red
+[20:10:41] [Client thread/INFO]: [CHAT] majorawsoem fell out of the world
+[20:11:03] [Client thread/INFO]: [CHAT] <Baswortman>: Can youn get in without hitting the cobwebs?
+[20:11:03] [Client thread/INFO]: [CHAT] majorawsoem fell out of the world
+[20:11:04] [Client thread/INFO]: [CHAT] [Tip] Configure settings by typing /help BukkitSettings
+[20:11:09] [Client thread/INFO]: [CHAT] <*DiabolicForce>: nope Baswortman
+[20:11:13] [Client thread/INFO]: [CHAT] <*❖✵Brumlington>: yes
+[20:11:19] [Client thread/INFO]: [CHAT] <*DiabolicForce>: im not sure lol
+[20:11:25] [Client thread/INFO]: [CHAT] majorawsoem was slain by DiabolicForce's Stone Sword
+[20:11:25] [Client thread/ERROR]: Item entity 766061 has no item?!
+[20:11:25] [Client thread/ERROR]: Item entity 766061 has no item?!
+[20:11:25] [Client thread/ERROR]: Item entity 766061 has no item?!
+[20:11:27] [Client thread/INFO]: [CHAT] <*❖✵Brumlington>: i did it earlier
+[20:11:27] [Client thread/INFO]: [CHAT] <*y7adriann>: how
+[20:11:31] [Client thread/INFO]: [CHAT] <*❖✵Brumlington>: scored 10 points
+[20:11:34] [Client thread/INFO]: [CHAT] Time Remaining: 01:00
+[20:11:34] [Client thread/INFO]: [CHAT] [Red] Baswortman: I guess perfect timing
+[20:11:37] [Client thread/INFO]: [CHAT] <*DiabolicForce>: jump in the space with 2 blocks above it
+[20:11:40] [Client thread/INFO]: [CHAT] <Baswortman>: I guess perfect timing
+[20:11:40] [Client thread/INFO]: [CHAT] Luna_Theta was slain by majorawsoem's Stone Sword
+[20:11:40] [Client thread/INFO]: [CHAT] +1 Raindrop | killed Luna_Theta
+[20:11:41] [Client thread/ERROR]: Item entity 766251 has no item?!
+[20:11:50] [Client thread/ERROR]: Item entity 766403 has no item?!
+[20:12:04] [Client thread/INFO]: [CHAT] Time Remaining: 00:30
+[20:12:04] [Client thread/INFO]: [CHAT] [Tip] Like us on facebook! facebook.com/OvercastNetwork
+[20:12:05] [Client thread/INFO]: [CHAT] majorawsoem was slain by Kauch's Diamond Sword
+[20:12:05] [Client thread/ERROR]: Item entity 766597 has no item?!
+[20:12:05] [Client thread/ERROR]: Item entity 766597 has no item?!
+[20:12:05] [Client thread/ERROR]: Item entity 766597 has no item?!
+[20:12:05] [Client thread/ERROR]: Item entity 766597 has no item?!
+[20:12:05] [Client thread/ERROR]: Item entity 766597 has no item?!
+[20:12:05] [Client thread/ERROR]: Item entity 766597 has no item?!
+[20:12:05] [Client thread/ERROR]: Item entity 766597 has no item?!
+[20:12:07] [Client thread/ERROR]: Item entity 766676 has no item?!
+[20:12:13] [Client thread/INFO]: [CHAT] <Baswortman>: I am above the score box... does that count?
+[20:12:14] [Client thread/INFO]: [CHAT] Time Remaining: 00:20
+[20:12:15] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:15] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:17] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:23] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:23] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:23] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:23] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:24] [Client thread/INFO]: [CHAT] Time Remaining: 00:10
+[20:12:26] [Client thread/ERROR]: Item entity 767163 has no item?!
+[20:12:26] [Client thread/ERROR]: Item entity 767163 has no item?!
+[20:12:26] [Client thread/ERROR]: Item entity 767163 has no item?!
+[20:12:28] [Client thread/ERROR]: Item entity 767242 has no item?!
+[20:12:28] [Client thread/ERROR]: Item entity 767242 has no item?!
+[20:12:28] [Client thread/ERROR]: Item entity 767242 has no item?!
+[20:12:28] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:29] [Client thread/INFO]: [CHAT] Time Remaining: 00:05
+[20:12:30] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:30] [Client thread/INFO]: [CHAT] Time Remaining: 00:04
+[20:12:30] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:30] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:31] [Client thread/INFO]: [CHAT] Time Remaining: 00:03
+[20:12:31] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:31] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:32] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:32] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:32] [Client thread/INFO]: [CHAT] Time Remaining: 00:02
+[20:12:32] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:32] [Client thread/INFO]: [CHAT]  ⚠ You may not score on your own team's score box!
+[20:12:33] [Client thread/INFO]: [CHAT] Time Remaining: 00:01
+[20:12:34] [Client thread/INFO]: [CHAT] Red wins!
+[20:12:34] [Client thread/INFO]: [CHAT] Your team won!
+[20:12:34] [Client thread/INFO]: [CHAT] Cycling to Abandoned Zoo in 20 seconds
+[20:12:34] [Client thread/INFO]: [CHAT] +13 Raindrops | your team (Red) won
+[20:12:35] [Client thread/INFO]: [CHAT] <*29adri>: gg
+[20:12:36] [Client thread/INFO]: [CHAT] <tinch0>: gg
+[20:12:36] [Client thread/INFO]: [CHAT] [Red] majorawsoem: gg
+[20:12:38] [Client thread/INFO]: [CHAT] <*bananannian>: gg
+[20:12:41] [Client thread/INFO]: [CHAT] [Red] birbantik: GG
+[20:12:42] [Client thread/INFO]: [CHAT] [Red] majorawsoem: this is a hard map
+[20:12:44] [Client thread/INFO]: [CHAT] Cycling to Abandoned Zoo in 10 seconds
+[20:12:49] [Client thread/INFO]: [CHAT] Cycling to Abandoned Zoo in 5 seconds
+[20:12:49] [Client thread/INFO]: [CHAT] <kdt_>: g/g
+[20:12:50] [Client thread/INFO]: [CHAT] Cycling to Abandoned Zoo in 4 seconds
+[20:12:51] [Client thread/INFO]: [CHAT] Cycling to Abandoned Zoo in 3 seconds
+[20:12:52] [Client thread/INFO]: [CHAT] Cycling to Abandoned Zoo in 2 seconds
+[20:12:53] [Client thread/INFO]: [CHAT] Cycling to Abandoned Zoo in 1 second
+[20:12:55] [Client thread/INFO]: [CHAT] Nothing to pass through!
+[20:12:55] [Client thread/INFO]: [CHAT]               Abandoned Zoo              
+[20:12:55] [Client thread/INFO]: [CHAT]  Be the team with the least deaths
+[20:12:55] [Client thread/INFO]: [CHAT]  after the time limit is reached
+[20:12:55] [Client thread/INFO]: [CHAT]  Created by *Solo_Runner
+[20:12:55] [Client thread/INFO]: [CHAT]                                                   
+[20:12:56] [Client thread/INFO]: [CHAT]                                Match Info                               
+[20:12:56] [Client thread/INFO]: [CHAT] Time: 00:00.000
+[20:12:56] [Client thread/INFO]: [CHAT] Red: 0/50 | Blue: 1/50 | Observers: 27
+[20:12:56] [Client thread/INFO]: [CHAT] Score: 
+[20:12:56] [Client thread/INFO]: [CHAT] You joined Blue
+[20:12:56] [Client thread/INFO]: [CHAT] Match starting in 20 seconds
+[20:13:05] [Client thread/INFO]: [CHAT] [Tip] We support many languages! Try changing it in Minecraft options
+[20:13:06] [Client thread/INFO]: [CHAT] Match starting in 10 seconds
+[20:13:11] [Client thread/INFO]: [CHAT] Match starting in 5 seconds
+[20:13:12] [Client thread/INFO]: [CHAT] Match starting in 4 seconds
+[20:13:13] [Client thread/INFO]: [CHAT] Match starting in 3 seconds
+[20:13:14] [Client thread/INFO]: [CHAT] Match starting in 2 seconds
+[20:13:15] [Client thread/INFO]: [CHAT] Match starting in 1 second
+[20:13:16] [Client thread/INFO]: [CHAT] The match has started!
+[20:13:16] [Client thread/INFO]: [CHAT] Time Remaining: 10:00
+[20:13:47] [Client thread/ERROR]: Item entity 781735 has no item?!
+[20:13:47] [Client thread/ERROR]: Item entity 781735 has no item?!
+[20:13:50] [Client thread/INFO]: [CHAT] majorawsoem was slain by PansitoKun's Stone Sword

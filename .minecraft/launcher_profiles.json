@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "majorawsoem": {
+      "name": "majorawsoem"
+    }
+  },
+  "selectedProfile": "majorawsoem",
+  "clientToken": "03b89d7b-6ab7-46a2-bdb3-7682c528f3b0",
+  "authenticationDatabase": {
+    "8d249ff164474cc6ad130b219166c3b4": {
+      "displayName": "majorawsoem",
+      "accessToken": "8006422246334fa19c8238a1fe5dbed6",
+      "userid": "41d9fc09efe9448f9e0cdc114d476a57",
+      "uuid": "8d249ff1-6447-4cc6-ad13-0b219166c3b4",
+      "username": "penta2100@hotmail.com"
+    }
+  },
+  "selectedUser": "8d249ff164474cc6ad130b219166c3b4",
+  "launcherVersion": {
+    "name": "1.6.51",
+    "format": 18
+  }
+}

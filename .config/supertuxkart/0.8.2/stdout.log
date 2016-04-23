@@ -1,0 +1,561 @@
+[info   ] [FileManager]: Data files will be fetched from: '/usr/share/supertuxkart/data/'
+[info   ] [FileManager]: User directory is '/home/austin/.config/supertuxkart/0.8.2/'.
+[info   ] [FileManager]: Addons files will be stored in '/home/austin/.local/share/supertuxkart/addons/'.
+[info   ] [FileManager]: Screenshots will be stored in '/home/austin/.cache/supertuxkart/screenshots/'.
+[info   ] [FileManager]: User-defined grand prix will be stored in '/home/austin/.local/share/supertuxkart/grandprix/'.
+[info   ] [FileManager]: Asset 0 will be loaded from '/usr/share/supertuxkart/data/challenges/'.
+[info   ] [FileManager]: Asset 1 will be loaded from '/usr/share/supertuxkart/data/fonts/'.
+[info   ] [FileManager]: Asset 2 will be loaded from '/usr/share/supertuxkart/data/gfx/'.
+[info   ] [FileManager]: Asset 3 will be loaded from '/usr/share/supertuxkart/data/grandprix/'.
+[info   ] [FileManager]: Asset 4 will be loaded from '/usr/share/supertuxkart/data/gui/'.
+[info   ] [FileManager]: Asset 5 will be loaded from '/usr/share/supertuxkart/data/library/'.
+[info   ] [FileManager]: Asset 6 will be loaded from '/usr/share/supertuxkart/data/models/'.
+[info   ] [FileManager]: Asset 7 will be loaded from '/usr/share/supertuxkart/data/music/'.
+[info   ] [FileManager]: Asset 8 will be loaded from '/usr/share/supertuxkart/data/tracks/'.
+[info   ] [FileManager]: Asset 9 will be loaded from '/usr/share/supertuxkart/data/sfx/'.
+[info   ] [FileManager]: Asset 10 will be loaded from '/usr/share/supertuxkart/data/shaders/'.
+[info   ] [FileManager]: Asset 11 will be loaded from '/usr/share/supertuxkart/data/skins/'.
+[info   ] [FileManager]: Asset 12 will be loaded from '/usr/share/supertuxkart/data/textures/'.
+[info   ] [FileManager]: Asset 13 will be loaded from '/usr/share/supertuxkart/data/po/'.
+[verbose  ] translation: Env var LANGUAGE = 'en_US.UTF-8'.
+[verbose  ] translation: Language 'English (United States)'.
+[warn   ] tinygettext: no.po: warning: ignoring, unknown language
+[warn   ] tinygettext: no_NO.po: warning: ignoring, unknown language
+[error  ] tinygettext: /usr/share/supertuxkart/data/po//en_GB.po line 2736 expected 'msgstr' or 'msgid_plural': ""
+[error  ] tinygettext: /usr/share/supertuxkart/data/po//en_GB.po line 3793 expected empty line: "msgstr "Launchpad Contributions:\nAndi Chandler https://launchpad.net/~bing\nMichael Torpey https://launchpad.net/~mctorpey\nSTK-team https://launchpad.net/~stk""
+[warn   ] tinygettext: no.po: warning: ignoring, unknown language
+[warn   ] tinygettext: no_NO.po: warning: ignoring, unknown language
+[error  ] tinygettext: /usr/share/supertuxkart/data/po//en_GB.po line 2736 expected 'msgstr' or 'msgid_plural': ""
+[error  ] tinygettext: /usr/share/supertuxkart/data/po//en_GB.po line 3793 expected empty line: "msgstr "Launchpad Contributions:\nAndi Chandler https://launchpad.net/~bing\nMichael Torpey https://launchpad.net/~mctorpey\nSTK-team https://launchpad.net/~stk""
+[warn   ] [IrrDriver Temp Logger]: Level 2: X Error: GLXBadFBConfig
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: From call : unknown
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Vertex shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Pixel shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Vertex shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Pixel shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Vertex shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Pixel shader compilation failed at position -1:
+
+
+[info   ] IrrDriver: OpenGL version: 4.1
+[info   ] IrrDriver: OpenGL vendor: nouveau
+[info   ] IrrDriver: OpenGL renderer: Gallium 0.4 on NVF1
+[info   ] IrrDriver: OpenGL version string: 4.1 (Core Profile) Mesa 11.1.2
+[info   ] GLDriver: ARB Buffer Storage Present
+[info   ] GLDriver: ARB Base Instance Present
+[info   ] GLDriver: ARB Draw Indirect Present
+[info   ] GLDriver: ARB Texture Storage Present
+[info   ] GLDriver: ARB Texture View Present
+[info   ] GLDriver: ARB Multi Draw Indirect Present
+[info   ] GLDriver: ARB Uniform Buffer Object Present
+[info   ] irr_driver: GLSL supported.
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[info   ] GUIEngine: scale: 2.250000
+[info   ] shader: Compiling shader : texturedquad.vert
+[info   ] shader: Compiling shader : texturedquad.frag
+[info   ] shader: Compiling shader : texturedquad.vert
+[info   ] shader: Compiling shader : uniformcolortexturedquad.frag
+[info   ] HTTPRequest: Downloading http://addons.supertuxkart.net/dl/xml/news.xml
+[info   ] GrandPrixManager: Loading Grand Prix files from /usr/share/supertuxkart/data/grandprix/
+[info   ] GrandPrixManager: Loading Grand Prix files from /home/austin/.local/share/supertuxkart/grandprix/
+[info   ] addons: Using cached addons.xml.
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] EventHandler: Error while loading kart 'Adiumy':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Emule':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Hexley':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[info   ] ClientNetworkManager: Host initialized.
+[info   ] ClientNetworkManager: Ready !
+[info   ] shader: Compiling shader : colortexturedquad.vert
+[info   ] shader: Compiling shader : colortexturedquad.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : object_pass1.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : objectref_pass1.frag
+[info   ] shader: Compiling shader : grass_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : objectref_pass1.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : normalmap.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : instanced_object_pass1.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : instanced_objectref_pass1.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_grass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : instanced_objectref_pass1.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : instanced_normalmap.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : utils/decodeNormal.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : utils/DiffuseIBL.frag
+[info   ] shader: Compiling shader : utils/SpecularIBL.frag
+[info   ] shader: Compiling shader : IBL.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : utils/decodeNormal.frag
+[info   ] shader: Compiling shader : utils/SpecularBRDF.frag
+[info   ] shader: Compiling shader : utils/DiffuseBRDF.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : utils/SunMRP.frag
+[info   ] shader: Compiling shader : sunlight.frag
+[info   ] shader: Compiling shader : pointlight.vert
+[info   ] shader: Compiling shader : utils/decodeNormal.frag
+[info   ] shader: Compiling shader : utils/SpecularBRDF.frag
+[info   ] shader: Compiling shader : utils/DiffuseBRDF.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : pointlight.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : object_pass2.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : objectref_pass2.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : object_unlit.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : splatting.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : objectpass_spheremap.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : detailed_object_pass2.frag
+[info   ] shader: Compiling shader : grass_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : grass_pass2.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : instanced_object_pass2.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : instanced_objectref_pass2.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : instanced_object_unlit.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : instanced_objectpass_spheremap.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : instanced_detailed_object_pass2.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_grass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : instanced_grass_pass2.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : transparent.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : passthrough.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : utils/getRGBfromCIEXxy.frag
+[info   ] shader: Compiling shader : utils/getCIEXYZ.frag
+[info   ] shader: Compiling shader : tonemap.frag
+[verbose  ] RaceManager: Nb of karts=20, ai:19 players:1
+
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/subsea/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[info   ] Singleton: Destroyed singleton.
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/subsea/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpMain_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpMain_a.png'.
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpRoot_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpRoot_a.png'.
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpBlendUp_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpBlendUp_a.png'.
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpBlendDown_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpBlendDown_a.png'.
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpLight_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpLight_a.png'.
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : importance_sampling_specular.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : fog.frag
+[info   ] shader: Compiling shader : sky.vert
+[info   ] shader: Compiling shader : sky.frag
+[info   ] shader: Compiling shader : pointlight.vert
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : pointlightscatter.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : gaussian6v.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : gaussian6h.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : transparentfog.frag
+[info   ] shader: Compiling shader : displace.vert
+[info   ] shader: Compiling shader : white.frag
+[info   ] shader: Compiling shader : displace.vert
+[info   ] shader: Compiling shader : displace.frag
+[info   ] shader: Compiling shader : pointemitter.vert
+[info   ] shader: Compiling shader : particle.vert
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : particle.frag
+[info   ] shader: Compiling shader : primitive2dlist.vert
+[info   ] shader: Compiling shader : transparent.frag
+[info   ] shader: Compiling shader : billboard.vert
+[info   ] shader: Compiling shader : billboard.frag
+[info   ] shader: Compiling shader : coloredquad.vert
+[info   ] shader: Compiling shader : coloredquad.frag
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=0, ai:0 players:0
+
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/introcutscene/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=0, ai:0 players:0
+
+[warn   ] Material: Cannot determine texture full path : <light.png>
+[error  ] material: Cannot find texture 'light.png'.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/overworld/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/overworld/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=25
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=5, ai:4 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/olivermath/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/olivermath/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=1, challenges=25
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=5, ai:4 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/olivermath/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/olivermath/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=0, ai:0 players:0
+
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[info   ] Script: allchallenges: unlocked_challenges=2, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=2, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=2, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=2, challenges=25
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[info   ] Script: ScriptingCallback: onStart
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[info   ] Script: allchallenges: unlocked_challenges=2, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=2, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=2, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=2, challenges=25
+[info   ] Script: onForceFieldKartCollision
+[info   ] Script: onForceFieldKartCollision
+[info   ] Script: onForceFieldKartCollision
+[info   ] Script: onForceFieldKartCollision
+[info   ] Script: onForceFieldKartCollision
+[info   ] Script: onForceFieldKartCollision
+[info   ] Script: onForceFieldKartCollision
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=4, ai:3 players:1
+
+[warn   ] Material: Cannot determine texture full path : <skybox.jpg>
+[error  ] material: Cannot find texture 'skybox.jpg'.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/farm/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=0, ai:0 players:0
+
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=5, ai:4 players:1
+
+[warn   ] Material: Cannot determine texture full path : <skybox.jpg>
+[error  ] material: Cannot find texture 'skybox.jpg'.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] material: Track uses deprecated texture 'logs.png'
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/farm/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=0, ai:0 players:0
+
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=5, ai:4 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/cocoa_temple/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[info   ] shader: Compiling shader : flipparticle.vert
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : particle.frag
+[warn   ] MusicOgg: Music not playing when it should be. Source state: 4116
+[warn   ] MusicOgg: Music not playing when it should be. Source state: 4116
+[warn   ] MusicOgg: Music not playing when it should be. Source state: 4116
+[warn   ] MusicOgg: Music not playing when it should be. Source state: 4116
+[warn   ] MusicOgg: Music not playing when it should be. Source state: 4116
+[warn   ] MusicOgg: Music not playing when it should be. Source state: 4116
+[warn   ] MusicOgg: Music not playing when it should be. Source state: 4116
+[warn   ] MusicOgg: Music not playing when it should be. Source state: 4116
+[warn   ] MusicOgg: Music not playing when it should be. Source state: 4116
+[warn   ] physics: Kart at (257.087006 20.966934 -155.320496) is too high above ground at (257.087006 11.987630 -155.320496)
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[warn   ] material: Track uses deprecated texture 'bumpy_surface.png'
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=5, ai:4 players:1
+
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/subsea/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[info   ] Singleton: Destroyed singleton.
+[warn   ] EventHandler: While loading track '/usr/share/supertuxkart/data/tracks/subsea/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpMain_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpMain_a.png'.
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpRoot_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpRoot_a.png'.
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpBlendUp_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpBlendUp_a.png'.
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpBlendDown_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpBlendDown_a.png'.
+[warn   ] Material: Cannot determine texture full path : <stktex_kelpLight_a.png>
+[error  ] material: Cannot find texture 'stktex_kelpLight_a.png'.
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ai:0 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] material: Track uses deprecated texture 'grass.jpg'
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] Script: allchallenges: unlocked_challenges=3, challenges=25
+[info   ] STKHost: Listening has been stopped
+[info   ] Singleton: Destroyed singleton.
+[warn   ] STKHost: Packet logging file has been closed.
+[info   ] Singleton: Destroyed singleton.
